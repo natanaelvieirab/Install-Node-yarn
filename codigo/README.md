@@ -1,3 +1,3 @@
-![](img/em-obras.png)
+![](../img/em-obras.png)
 
 # A Documentação está sendo produzida !
