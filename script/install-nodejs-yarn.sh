@@ -61,7 +61,7 @@ function install_Curl() {
 }
 
 function install_Node() {
-    URL_NODESOURCE="https://deb.nodesource.com/setup_lts.x"
+    URL_NODESOURCE="https://deb.nodesource.com/setup_17.x"
 
     curl -sL $URL_NODESOURCE | sudo -E bash -
 
